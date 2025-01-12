@@ -2,6 +2,7 @@ import cv2 as cv
 import time, math, threading
 import emailling, utils
 import streamlit as st
+from streamlit_webrtc import webrtc_streamer
  
 
 
@@ -54,6 +55,11 @@ st.text('2. Largest Detection: ')
 st.text('The image that had the largest detection box area while in frame.')
 st.text('3. Nearest to Center: ')
 st.text('The image that had the detection box cloest to the center while in frame.')
+
+
+
+
+
 ####### camera loop object detection #######
 # Initial variables
 obj_dected_status = [False,False] # Send email if obj exit frame --> Send email if status = [True,False]
