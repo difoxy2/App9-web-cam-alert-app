@@ -12,10 +12,6 @@ This app is written with the idea of a webcam alert app, where the webcam is set
 
 The app will then send an email with these images attached everytime an object is detected. (Email address provided by the user)
 
-# Live demo
-
-Live demo: [https://youtu.be/UfdVSR1yFKU](https://youtu.be/UfdVSR1yFKU)
-
 # Library used
 
 * Python
@@ -26,3 +22,8 @@ Live demo: [https://youtu.be/UfdVSR1yFKU](https://youtu.be/UfdVSR1yFKU)
 * streamlit
 
 ### This app is homework App 9 - Build a Webcam Alert App from Udemy course [Python Mega Course: Learn Python in 60 Days, Build 20 Apps](https://www.udemy.com/course/the-python-mega-course/learn/lecture/34604706#overview)
+# Live demo
+
+Live demo: [https://youtu.be/UfdVSR1yFKU](https://youtu.be/UfdVSR1yFKU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UfdVSR1yFKU/0.jpg)](https://www.youtube.com/watch?v=UfdVSR1yFKU)
+
